@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Issue Tracking Project is a web application designed to help users manage and track issues efficiently. It provides an intuitive interface for users to create, view, and complete issues, enhancing productivity and organization in both individual and team settings.
+The Issue Tracking Project is a web application designed to help users manage and track issues efficiently. It provides an intuitive interface for users to create, view, and complete issues. I explored reactive forms and forms validation in this project.
 
 ## Features
 
