@@ -8,12 +8,14 @@ import {ClarityModule} from '@clr/angular';
 import { IssueListComponent } from './issue-list/issue-list.component';
 import { ReactiveFormsModule } from '@angular/forms';
 import { IssueReportComponent } from './issue-report/issue-report.component';
+import { ConfirmDialogueComponent } from './confirm-dialogue/confirm-dialogue.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     IssueListComponent,
-    IssueReportComponent
+    IssueReportComponent,
+    ConfirmDialogueComponent
   ],
   imports: [
     BrowserModule,
