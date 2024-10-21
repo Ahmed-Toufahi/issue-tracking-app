@@ -25,4 +25,7 @@ To get started with the Issue Tracking Project, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/issue-tracking.git
-   cd issue-tracking
+   cd front-end (to run the angular front end)
+
+## Backend
+To be implemented
